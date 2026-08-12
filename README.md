@@ -2819,3 +2819,7 @@ also, some papers and links collected from:
 | **BANCA**          | The BANCA database was captured in four European languages in **two modalities** (**face** and **voice**). | [Download](http://www.ee.surrey.ac.uk/CVSSP/banca/)          | 2014         |
 | **3D Mask Attack** | **76500** frames of **17** persons using Kinect RGBD with eye positions (Sebastien Marcel). | [Download](https://www.idiap.ch/dataset/3dmad)               | 2013         |
 | **WebCaricature**  | **6042** **caricatures** and **5974 photographs** from **252 persons** collected from the web | [Download](https://cs.nju.edu.cn/rl/WebCaricature.htm)       | 2018         |
+
+## See also
+
+- [local-face-photo-search](https://github.com/ethan1819/face_search) — 100% local desktop face photo search (PySide6 + InsightFace).
